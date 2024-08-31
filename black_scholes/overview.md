@@ -1,5 +1,5 @@
 # Black Scholes Model
-Published in 1973 with the aim of findinf the value of an option before expiry.
+Published in 1973 with the aim of finding the value of an option before expiry.
 
 > Showed that combining risky securities can eliminate risk itself.
 
